@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365434101487",
+    "project_id": "quotes-679e1",
+    "storage_bucket": "quotes-679e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365434101487:android:cca879ff9dc103a9d7c51a",
+        "android_client_info": {
+          "package_name": "com.example.adminquote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjyBef2la8rvVqu3LpRr1KGt3Gn2cn8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365434101487:android:968d8a7b1aca109fd7c51a",
+        "android_client_info": {
+          "package_name": "com.example.frafra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjyBef2la8rvVqu3LpRr1KGt3Gn2cn8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
