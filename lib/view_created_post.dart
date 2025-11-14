@@ -14,7 +14,7 @@ class _QuotesListPageState extends State<QuotesListPage> {
   late Future<List<dynamic>> _quotesFuture;
   final TextEditingController _editController = TextEditingController();
 
-  String imagePath = 'asset/img3.jpg';
+  String imagePath = 'asset/bg-wallpepper.jpeg';
 
   @override
   void initState() {

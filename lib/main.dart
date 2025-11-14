@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         builder: EasyLoading.init(),
-        title: 'Flutter Demo',
+        title: 'IKEINSPIREME',
         theme: ThemeData(
         fontFamily: "PoetsenOne-Regular",
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),

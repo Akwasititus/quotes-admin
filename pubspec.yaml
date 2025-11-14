@@ -35,6 +35,7 @@ flutter:
 
   assets:
     - asset/img3.jpg
+    - asset/bg-wallpepper.jpeg
 
   fonts:
     - family: PoetsenOne-Regular
