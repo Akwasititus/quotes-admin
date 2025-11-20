@@ -23,8 +23,18 @@ dependencies:
   upgrader: ^10.3.0
 
 dev_dependencies:
+  flutter_launcher_icons: "^0.14.4"
+
   flutter_test:
     sdk: flutter
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "asset/pastoramankwa.jpg"
+  min_sdk_android: 21
+
+
+
 
 
   flutter_lints: ^3.0.0
@@ -36,6 +46,7 @@ flutter:
   assets:
     - asset/img3.jpg
     - asset/bg-wallpepper.jpeg
+    - asset/pastoramankwa.jpg
 
   fonts:
     - family: PoetsenOne-Regular

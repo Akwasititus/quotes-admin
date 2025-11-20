@@ -89,7 +89,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace = "com.example.adminquote"
-    compileSdk = 36 // Set explicit version instead of flutter.compileSdkVersion
+    compileSdk = 34 // Set explicit version instead of flutter.compileSdkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
